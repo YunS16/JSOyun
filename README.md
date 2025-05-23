@@ -7,10 +7,10 @@ Javascript ve HTML Canvas kullanılarak 2d yapılmış basit ama eğlenceli bir 
 
 - Silah Seçimi (Tabanca , Sniper , Bomba , Rpg)
 - Her silahın farklı etki alanı vardır :
-    -Tabanca ------> 1 karelik düşmanı etkisiz hale getirir.
-    -Sniper -------> Tüm satırdaki düşmanları etkisiz hale getirir.
-    -Bomba --------> 2x2 kare boyutunun içindeki düşmanları etkisiz hale getirir.
-    -Rpg  ---------> 3x3 kare boyutunun içindeki düşmanları etkisiz hale getirir.
+    - Tabanca ------> 1 karelik düşmanı etkisiz hale getirir.
+    - Sniper -------> Tüm satırdaki düşmanları etkisiz hale getirir.
+    - Bomba --------> 2x2 kare boyutunun içindeki düşmanları etkisiz hale getirir.
+    - Rpg  ---------> 3x3 kare boyutunun içindeki düşmanları etkisiz hale getirir.
 - Round geçme ve para kazanma sistemi
 - Oyunu kazanma durmu (50 paraya gelince)
 - Düşmanın üstüne tıklama ile etkisiz hale getirme
