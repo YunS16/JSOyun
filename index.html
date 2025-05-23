@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oyun</title>
+    <style type="text/css">
+     .Body{
+
+        margin: 0;
+        background-color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 92vh;
+
+     }
+
+
+
+
+    </style>
+</head>
+<body>
+   
+ <div id="hosgeldiniz"></div>
+    <br />
+ <div id="kurallar"></div>
+    <br />
+    
+ <div id="oyunsonu"></div>
+ 
+ <div class="Body">
+   <div id="startContainer" style="position: absolute; z-index: 10; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center;">
+
+      <button id="startGameBtn" style=" padding: 30px 20px; font-size: 16px; ">
+     
+         Oyuna Başla
+      </button>
+      </div>
+
+       <canvas id="gameCanvas" width="900" height="550"></canvas>
+
+       <script src="index.js"></script>
+ </div>
+</body>
+</html>
