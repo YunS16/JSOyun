@@ -24,15 +24,18 @@ Projemiz HTML canvas ve javascript kullanılarak yapıldı . Bir Html dosyası ,
 ## Proje Bilgileri
 Kodlar Microsoft Visual Studio Code ile yazılmıştır . Geliştirmek istediğiniz yer var ise siz de indirip düzenleyebilirsiniz. Oyun sayfasını ilk açtığınızda Oyuna başla butonu ile oyuna başlayabilirsiniz. Oyuna başladıktan sonra her düşmanı oyunun sağ tarafındaki silahlar ile öldürmeniz gerekir . Her silahın farklı bir etkisi vardır mesela tabanca 1 kare vurur , sniper tüm satırdaki düşmanları vurur , bomba 2x2 rpg 3x3 kare şeklinde alanları vurur. Her düşman etkisiz hale getirildiğinde 1 altın kazanılır . Silahların altındaki next rount butonu ile bir sonraki raunta geçilir , 1 altın kazanılır ve yeni düşmanlar gelir . Eğer para miktarınız 50 ve üstünde ise oyunu kazanmış olursunuz . Eğer düşmanlardan biri askere en yakın sütuna gelince oyun sona erer ve kaybedilir.
 
-
+# Ekran Görüntüleri 
 ## Sayfa açıldığında görünen 
 
 
 
 ## Oyuna başla butonuna basıldığından sonra görünen
 
-#Oyunu Kaybedince görünen 
+## Oyunu Kaybedince görünen 
 
+
+## Proje tanıtım videosu
+Projemi tanıtmak amacıyla 1 dakikalık kısa bir video çektim . Linki ----------->
 
 ## Projeyi yapan ekip üyeleri
 Proje bireysel olarak yapılmıştır . Şikayet veya önerileriniz olursa eğer bana mail üzerinden ulaşabilirsiniz.
