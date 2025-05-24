@@ -35,7 +35,7 @@ Kodlar Microsoft Visual Studio Code ile yazılmıştır . Geliştirmek istediği
 ![OyunaKaybedince](https://github.com/YunS16/JSOyun/raw/main/img/screenshot3.jpg)
 
 ## Proje tanıtım videosu
-Projemi tanıtmak amacıyla 1 dakikalık kısa bir video çektim . Linki ----------->  https://youtu.be/qpUbegy3R7g
+Projemi tanıtmak amacıyla 1 dakikalık kısa bir video çektim . Youtube Linki ----------->  https://youtu.be/qpUbegy3R7g
 
 ## Projeyi yapan ekip üyeleri
 Proje bireysel olarak yapılmıştır . Şikayet veya önerileriniz olursa eğer bana mail üzerinden ulaşabilirsiniz.
