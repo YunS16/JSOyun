@@ -26,13 +26,13 @@ Kodlar Microsoft Visual Studio Code ile yazılmıştır . Geliştirmek istediği
 
 # Ekran Görüntüleri 
 ## Sayfa açıldığında görünen 
-![OyunaBaşla] (https://github.com/YunS16/JSOyun/raw/main/img/screenshot1.jpg)
+![OyunaBaşla](https://github.com/YunS16/JSOyun/raw/main/img/screenshot1.jpg)
 
 ## Oyuna başla butonuna basıldığından sonra görünen
-![OyunaBaşla2] (https://github.com/YunS16/JSOyun/raw/main/img/screenshot2.jpg)
+![OyunaBaşla2](https://github.com/YunS16/JSOyun/raw/main/img/screenshot2.jpg)
 
 ## Oyunu Kaybedince görünen 
-![OyunaKaybedince] (https://github.com/YunS16/JSOyun/raw/main/img/screenshot3.jpg)
+![OyunaKaybedince](https://github.com/YunS16/JSOyun/raw/main/img/screenshot3.jpg)
 
 ## Proje tanıtım videosu
 Projemi tanıtmak amacıyla 1 dakikalık kısa bir video çektim . Linki ----------->
