@@ -26,13 +26,13 @@ Kodlar Microsoft Visual Studio Code ile yazılmıştır . Geliştirmek istediği
 
 # Ekran Görüntüleri 
 ## Sayfa açıldığında görünen 
-
-
+![OyunaBaşla] (img/screenshot1.jpg)
 
 ## Oyuna başla butonuna basıldığından sonra görünen
+![OyunaBaşla2] (img/screenshot2.jpg)
 
 ## Oyunu Kaybedince görünen 
-
+![OyunaKaybedince] (img/screenshot3.jpg)
 
 ## Proje tanıtım videosu
 Projemi tanıtmak amacıyla 1 dakikalık kısa bir video çektim . Linki ----------->
