@@ -34,6 +34,9 @@ Kodlar Microsoft Visual Studio Code ile yazılmıştır . Geliştirmek istediği
 ## Oyunu Kaybedince görünen 
 ![OyunaKaybedince](https://github.com/YunS16/JSOyun/raw/main/img/screenshot3.jpg)
 
+## Oyun Sitesinin Linki
+Oyun Sitemin Linki ---->https://yuns16.github.io/JSOyun/
+
 ## Proje tanıtım videosu
 Projemi tanıtmak amacıyla 1 dakikalık kısa bir video çektim . Youtube Linki ----------->  https://youtu.be/qpUbegy3R7g
 
